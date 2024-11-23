@@ -23,8 +23,11 @@ The project consists of several key components:
 - main.pony: Entry point of the program
 
 Test 1:
+
 <img width="566" alt="Test 1" src="https://github.com/user-attachments/assets/6b6f5dad-863a-4bf1-9afb-5240cb33606d">
 
+
 Test 2:
+
 <img width="558" alt="Test 2" src="https://github.com/user-attachments/assets/b18cfd1b-122c-4747-b002-e71315be32f7">
 
