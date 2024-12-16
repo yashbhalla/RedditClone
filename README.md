@@ -1,4 +1,4 @@
-# Reddit Clone
+# Reddit Clone - Pony Lang
 
 This project implements a Reddit-like engine and simulator using the Pony programming language. It aims to replicate core functionalities of Reddit, including user account management, subreddit operations, posting, commenting, and voting systems.
 
